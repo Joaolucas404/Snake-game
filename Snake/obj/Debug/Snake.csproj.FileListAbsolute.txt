@@ -1,0 +1,11 @@
+D:\Users\joao\Desktop\GEN C#\Snake-game\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\Users\joao\Desktop\GEN C#\Snake-game\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+D:\Users\joao\Desktop\GEN C#\Snake-game\Snake\obj\Debug\Snake.Form1.resources
+D:\Users\joao\Desktop\GEN C#\Snake-game\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\Users\joao\Desktop\GEN C#\Snake-game\Snake\bin\Debug\Snake.exe.config
+D:\Users\joao\Desktop\GEN C#\Snake-game\Snake\bin\Debug\Snake.exe
+D:\Users\joao\Desktop\GEN C#\Snake-game\Snake\bin\Debug\Snake.pdb
+D:\Users\joao\Desktop\GEN C#\Snake-game\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\Users\joao\Desktop\GEN C#\Snake-game\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Users\joao\Desktop\GEN C#\Snake-game\Snake\obj\Debug\Snake.exe
+D:\Users\joao\Desktop\GEN C#\Snake-game\Snake\obj\Debug\Snake.pdb
